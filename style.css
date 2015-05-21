@@ -1,23 +1,19 @@
-body
-{
-background-color: #5c87b2;
-color: #696969;
+body {
+	background-color: #5c87b2;
+	color: #696969;
 }
 
-#main
-{
-padding: 30px;
-background-color: #ffffff;
-border-radius: 0 0 4px 4px;
-font: "Roboto", Verdana, sans-serif;
-text-align: "center";
+#main {
+	padding: 30px;
+	background-color: #ffffff;
+	border-radius: 0 0 4px 4px;
+	font-family: "Roboto", Verdana, sans-serif;
+	text-align: center;
 }
 
-h1
-{
-font: Georgia, serif;
-border-bottom: 3px solid #cc9900;
-color: #996600;
+h1 {
+	border-bottom: 3px solid #cc9900;
+	color: #996600;
 }
 
 .center {
