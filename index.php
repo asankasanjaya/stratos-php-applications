@@ -4,8 +4,7 @@
 <head>
   <title>Apache Straots PHP Demo</title>
   <link href="style.css" rel="stylesheet">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
-</head>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'></head>
 <body>
   <div class="center" id="main">
   <img src="images/stratos-logo.png" style="width: 150px" />
