@@ -8,11 +8,13 @@ body {
 	background-color: #ffffff;
 	border-radius: 0 0 4px 4px;
 	font-family: 'Open Sans', sans-serif;
+	font-size: 85%;
 	text-align: center;
 }
 
 h1 {
 	border-bottom: 3px solid;
+	padding-bottom: 5px;
 }
 
 .center {
