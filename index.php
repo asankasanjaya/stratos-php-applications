@@ -4,7 +4,7 @@
 <head>
   <title>Apache Straots PHP Demo</title>
   <link href="style.css" rel="stylesheet">
-  <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
   <div class="center" id="main">
