@@ -1,6 +1,5 @@
 body
 {
-font: "Open Sans", Verdana, sans-serif;
 background-color: #5c87b2;
 color: #696969;
 }
@@ -10,6 +9,8 @@ color: #696969;
 padding: 30px;
 background-color: #ffffff;
 border-radius: 0 0 4px 4px;
+font: "Roboto", Verdana, sans-serif;
+text-align: "center";
 }
 
 h1
@@ -23,5 +24,4 @@ color: #996600;
 	margin-left: auto;
     margin-right: auto;
 	width: 500px;
-	text-align: "center";
 }
