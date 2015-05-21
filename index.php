@@ -2,20 +2,17 @@
 
 <html>
 <head>
-  <title>PHP Demo</title>
+  <title>Apache Straots PHP Demo</title>
   <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
   <div id="main">
-  <h1>Welcome to Apache Stratos Demonstration</h1>
-  <h2>Web Site Main Ingredients</h2>
-  <p>A Home Page (index.php)</p>
-  <p>A Style Sheet (style.css)</p>
-  <p>Include files (footer.php)</p>
+  <img src="images/stratos-logo.png" style="width: 150px" />
+  <h1>Apache Stratos PHP Demo</h1>
+  <?php echo "<h2>Running Container IP - ".$_SERVER['SERVER_ADDR']."</h2>"; ?>
 
-<?php include("footer.php"); ?>
-</div>
-
+  <?php include("footer.php"); ?>
+  </div>
 </body>
 </html> 
